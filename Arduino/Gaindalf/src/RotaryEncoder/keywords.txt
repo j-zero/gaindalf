@@ -1,0 +1,8 @@
+RotaryEncoder 	        KEYWORD1
+Read		            KEYWORD2
+HasChanged              KEYWORD2
+GetEncoderValue         KEYWORD2
+GetButtonPressed        KEYWORD2
+GetButtonIsPressing     KEYWORD2
+GetButtonPressedTime    KEYWORD2
+UseInterrupts           KEYWORD2
